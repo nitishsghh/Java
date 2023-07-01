@@ -1,6 +1,7 @@
 # JavaProgram
 java-program
-![JAVA ](https://github.com/nitishsghh/JavaProgram/assets/120895433/52e48d9d-3a99-4299-a9b2-2200a641aa99)
+![JAVA ](https://github.com/nitishsghh/Java/assets/120895433/4be12e05-e6eb-459f-a9c8-dc37fc6a616e)
+
 
 Arrays	Maximum and Minimum Element in an Array
 Arrays	Reverse the Array
